@@ -7,4 +7,3 @@ Which I have built after completing freeCodeCamp WebDesign course, It is the las
 I build this project with the help of the example project given in the course.
 
 Hence, I'm happy with the output but it's just the beginning of my journy to become a WebDeveloper.
-Will learn more about JavaScript and its frameworks and build more complex and advance webapps in the future :)
